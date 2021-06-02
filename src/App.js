@@ -3,7 +3,7 @@ import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
 import "./App.css";
 import Header from "./MyComponents/Header.js"; // default export
-import { Todos } from "./MyComponents/Todos"; // default export
+import { Todos } from "./MyComponents/Todos"; // name export
 import Footer from "./MyComponents/Footer.js"; // default export
 import AddTodo from "./MyComponents/AddTodo.js"; // default export
 import { About } from "./MyComponents/About.js"; // name export
